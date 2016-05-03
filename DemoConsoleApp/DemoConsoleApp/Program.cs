@@ -13,7 +13,7 @@ namespace DemoConsoleApp
             Console.WriteLine("Hello World! - Changed on server");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Another line from client");
-
+            Console.ReadLine();
         }
     }
 }
